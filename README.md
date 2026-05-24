@@ -1,16 +1,41 @@
-## Hi there 👋
+# Manpreet Kaur
 
-<!--
-**manuu231/manuu231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer** · MS Data Science, Clarkson University (May 2026) · STEM OPT authorized through 2028
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+AI/ML Engineer with 3+ years of experience building intelligent systems at Wipro and Clarkson University. Specializing in LLM applications, RAG pipelines, and production-ready ML workflows. Currently seeking full-time AI/ML Engineer or Data Scientist roles — no sponsorship needed.
+
+---
+
+## Skills
+
+**Languages & ML:** Python · Pandas · NumPy · scikit-learn · SQL  
+**LLM & GenAI:** LangChain · OpenAI API · RAG · FAISS · Chroma · Ollama  
+**Infrastructure:** AWS · Docker · Git · Jupyter  
+
+---
+
+## Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| RAG Chatbot | LangChain · FAISS · OpenAI | Document Q&A over uploaded PDFs |
+| Titanic ML Pipeline | Pandas · scikit-learn | EDA + feature engineering + model comparison |
+| LeetCode Daily | Python | Daily solutions with approach notes |
+
+---
+
+## Currently learning
+
+LangChain agents · LangGraph · FAISS/Chroma vector stores · AWS SageMaker · Docker for ML
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/your-url](#)
+- GitHub: [github.com/manuu231](https://github.com/manuu231)
+- Email: your.email@clarkson.edu
