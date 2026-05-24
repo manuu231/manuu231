@@ -36,6 +36,6 @@ LangChain agents · LangGraph · FAISS/Chroma vector stores · AWS SageMaker · 
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/your-url](#)
+- LinkedIn: [linkedin.com/in/manpreetkaurmahal](https://www.linkedin.com/in/manpreetkaurmahal/)
 - GitHub: [github.com/manuu231](https://github.com/manuu231)
-- Email: your.email@clarkson.edu
+- Email: [mahalmanpreet01@gmail.com](mailto:mahalmanpreet01@gmail.com)
