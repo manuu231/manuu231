@@ -1,138 +1,167 @@
 <div align="center">
 
 # Manpreet Kaur
-### LLM Engineer · GenAI · ML Infrastructure · Distributed Systems
+
+### Generative AI Engineer · AI/ML Engineer · RAG Systems · Applied AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-manpreetkaurmahal-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/manpreetkaurmahal)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Manpreet02-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/Manpreet02)
-[![Email](https://img.shields.io/badge/Email-mahalmanpreet01@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mahalmanpreet01@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=flat-square)](mailto:mahalmanpreet01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-manpreetmahal.mk%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manpreetmahal.mk@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=flat-square)](mailto:manpreetmahal.mk@gmail.com)
 
-**MS Data Science @ Clarkson University (May 2026) · STEM OPT authorized through 2028 · No sponsorship needed**
+**MS Data Science · Clarkson University · May 2026**  
+**Open to AI/ML Engineer, Generative AI Engineer, Data Scientist, and Applied AI roles**
 
 </div>
 
 ---
 
-## About
+## About Me
 
-AI/ML Engineer with **3+ years of production experience** building LLM applications, RAG pipelines, agentic AI systems, and large-scale distributed ML infrastructure on AWS and Azure.
+I am an AI/ML Engineer and recent MS Data Science graduate from Clarkson University with experience across machine learning, deep learning, Generative AI, RAG systems, healthcare AI, biometric authentication, and large-scale data processing.
 
-At **Wipro**, I owned end-to-end ML systems processing **50M+ records/day** — from training pipeline design and model evaluation to containerized deployment on Kubernetes. My systems delivered **$2M+ in cost savings**, **35% fraud reduction**, and **40% inference latency improvements** in production.
+My work focuses on building practical AI systems that combine strong machine learning foundations with modern LLM application development. I have worked with Python, PyTorch, LangChain, FAISS, FastAPI, AWS, PySpark, Docker, Kubernetes, and MLOps tools to build scalable and production-oriented AI solutions.
 
-At **Clarkson University**, I build and teach RAG pipelines, multi-agent workflows, and fine-tuned LLMs — and conduct research in biometric AI, healthcare analytics, and environmental data science.
+I am especially interested in:
 
----
-
-## Impact at a Glance
-
-| Metric | Result |
-|---|---|
-| Daily data processed | 50M+ records/day |
-| Inference latency reduced | 35% |
-| Fraud losses reduced | 35% |
-| Annual cost savings delivered | $2M+ |
-| Model iteration cycles cut | 50% |
-| Pipeline uptime maintained | 99.9% |
-| Students mentored | 60+ |
+- Generative AI and RAG systems
+- Agentic AI workflows
+- Applied Machine Learning
+- Healthcare AI
+- Biometric authentication
+- Data Science and analytics
+- Cloud-based AI deployment
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-**Generative AI & LLMs**
-`LangChain` `LangGraph` `CrewAI` `AutoGen` `OpenAI API` `Ollama` `Llama 3` `Mistral` `Gemma` `AWS Bedrock` `Vertex AI` `LoRA` `QLoRA` `Prompt Engineering` `Tool Calling` `Guardrails`
+**Generative AI & LLMs**  
+`LangChain` `LangGraph` `RAG` `Agentic AI` `Tool Calling` `Prompt Engineering` `OpenAI API` `Ollama` `Mistral` `AWS Bedrock`
 
-**Vector Databases & Retrieval**
-`FAISS` `Chroma` `Pinecone` `Weaviate` `Qdrant` `Semantic Search` `Hybrid Retrieval` `Embeddings`
+**Vector Search & Retrieval**  
+`FAISS` `ChromaDB` `Pinecone` `Vector Databases` `Embeddings` `Retrieval-Augmented Generation`
 
-**ML & Deep Learning**
-`PyTorch` `TensorFlow` `HuggingFace Transformers` `Scikit-learn` `XGBoost` `LSTM` `BiLSTM` `CvT` `Gradient Boosting`
+**Machine Learning & Deep Learning**  
+`PyTorch` `TensorFlow` `Scikit-learn` `XGBoost` `CNN` `LSTM` `BiLSTM` `CvT` `ConvMixer` `Time Series Forecasting`
 
-**Cloud & MLOps**
-`AWS SageMaker` `AWS Bedrock` `EC2` `EKS` `EMR` `Kinesis` `S3` `Azure Databricks` `Azure ML` `Docker` `Kubernetes` `FastAPI` `CI/CD` `MLflow` `Weights & Biases`
+**Cloud, MLOps & Deployment**  
+`AWS SageMaker` `AWS S3` `AWS Kinesis` `AWS EMR` `Docker` `Kubernetes` `FastAPI` `MLflow` `Weights & Biases` `CI/CD`
 
-**Data Engineering**
-`PySpark` `Apache Kafka` `Airflow` `Hive` `Amazon Redshift` `ETL Pipelines` `Pandas` `NumPy`
+**Data Engineering & Analytics**  
+`PySpark` `Kafka` `Airflow` `Hive` `Amazon Redshift` `Pandas` `NumPy` `SQL`
 
-**Languages**
-`Python` `SQL` `Java` `Scala` `JavaScript` `TypeScript`
+**Programming**  
+`Python` `SQL` `Java` `JavaScript`
 
 ---
 
 ## Featured Projects
 
-### 🔍 RAG-Powered Document Q&A System
-> LangChain · FAISS · Chroma · Mistral-7B · Gradio
+### Smart Document Assistant RAG
+**LangChain · FAISS · Mistral · Hugging Face Spaces**
 
-Production RAG pipeline with PDF ingestion, chunking, embedding, FAISS vector retrieval, and LLM answer generation. Live on HuggingFace Spaces with **<800ms average query latency**.
+A Retrieval-Augmented Generation application that enables document-based question answering using LangChain, FAISS vector search, and Mistral.
 
-- Integrated Mistral-7B via HuggingFace Inference API — **zero API cost** at GPT-4 comparable quality
-- Designed chunking strategy (512 tokens, 50-token overlap) achieving **91% top-4 retrieval precision**
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Manpreet02/rag-document-qa)
-[![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/manuu231/rag-document-qa)
+[Live Demo](https://huggingface.co/spaces/Manpreet02/Smart-Document-Assistant)  
+[Repository](https://github.com/manuu231/Smart-Document-Assistant-RAG)
 
 ---
 
-### 🤖 Agentic AI Assistant
-> LangGraph · CrewAI · OpenAI API · Tool Calling · Python
+### Smart HR Assistant
+**Generative AI · RAG · Document Intelligence · Hugging Face Spaces**
 
-Autonomous multi-agent system with planning, tool calling, and intermediate reasoning.
+A Generative AI assistant designed to answer HR-related questions using company documents and retrieval-based search.
 
-- **92% task completion accuracy** across 10+ task categories
-- Persistent agent memory and multi-tool orchestration via CrewAI
-- **70% reduction** in manual task automation time in benchmark workflows
+[Live Demo](https://huggingface.co/spaces/Manpreet02/Smart-HR-Assistant)
 
 ---
 
-### ⚡ Real-Time ML Data Pipeline
-> PySpark · Kafka · Amazon Redshift · AWS
+### LangChain Agent Tool Calling
+**LangChain · ReAct Agents · Tool Calling · Python**
 
-Distributed streaming pipeline processing **1M+ events/hour** with sub-second latency analytics.
+A LangChain agent built using the ReAct pattern with custom tools for calculator operations, unit conversion, text analysis, and knowledge base lookup.
 
-- Parallel partitioning across distributed worker nodes
-- Amazon Redshift integration via JDBC for real-time cloud reporting
+[Repository](https://github.com/manuu231/LangChain_Agents_Tool_Calling)
 
 ---
 
-## Research
+### Local RAG with Mistral and Ollama
+**Ollama · Mistral · FAISS · LangChain**
 
-**Biometric Authentication AI** · Clarkson University *(2024 – Present)*
-Hybrid deep learning model (CvT + BiLSTM + ConvMixer) for PPG-based biometric authentication — **0.99 ROC-AUC** with full cross-dataset generalization.
+A fully local RAG pipeline using Mistral, Ollama, FAISS, and LangChain without external API dependencies.
 
-**Healthcare AI** · Clarkson University *(Nov 2024 – Jul 2025)*
-Time-series analysis on millions of NEMSIS cardiac arrest records to uncover critical intervention delays impacting patient outcomes.
+[Repository](https://github.com/manuu231/Local_RAG_Mistral_Ollama)
 
-**Air Pollution Analytics** · Clarkson University *(2025 – Present)*
-PM2.5 wildfire smoke analysis across multiple cities — findings support public health guidance for **500K+ residents**.
+---
+
+### Hybrid PPG Biometric Authentication
+**PyTorch · Signal Processing · Deep Learning · Biometric AI**
+
+A research-focused deep learning project for PPG-based biometric authentication using signal preprocessing, CWT scalograms, and hybrid neural architectures.
+
+[Repository](https://github.com/manuu231/Hybrid-PPG-Biometric-Authentication)
+
+---
+
+### PM2.5 Air Quality Analysis
+**Python · Time Series · Environmental Analytics · Data Science**
+
+A data science project analyzing PM2.5 air quality patterns and low-cost sensor behavior across environmental monitoring datasets.
+
+[Repository](https://github.com/manuu231/PM25-Air-Quality-Analysis)
+
+---
+
+### Credit Card Fraud Detection
+**Machine Learning · Imbalanced Data · Classification · Model Evaluation**
+
+An end-to-end machine learning project for fraud detection, including preprocessing, class imbalance handling, model comparison, and performance evaluation.
+
+[Repository](https://github.com/manuu231/Credit-Card-Fraud-Detection)
+
+---
+
+## Research Experience
+
+### Biometric Authentication AI
+Research on PPG-based biometric authentication using signal processing and deep learning architectures including CvT, BiLSTM, and ConvMixer.
+
+### Healthcare AI
+Analysis of emergency medical service data to study intervention timing, patient outcomes, and healthcare event patterns.
+
+### Air Pollution Analytics
+Analysis of PM2.5 and wildfire smoke-related air quality data using Python, time-series analysis, and sensor comparison methods.
 
 ---
 
 ## Experience
 
-**AI/ML Engineer** · Wipro, India *(Jan 2022 – Jul 2024)*
-Built and owned production fraud detection, demand forecasting, and risk scoring ML systems at scale.
+### AI/ML Engineer · Wipro
+Worked on machine learning systems for fraud detection, forecasting, risk analytics, real-time data pipelines, and cloud-based ML deployment.
 
-**Teaching Assistant, AI/ML** · Clarkson University *(Nov 2024 – May 2026)*
-Teaching RAG pipelines, agentic AI, LLM fine-tuning, and MLOps to 60+ graduate students.
+### AI/ML Research Assistant · Clarkson University
+Conducted applied AI research in biometric authentication, healthcare analytics, and environmental data science.
+
+### Teaching Assistant · Clarkson University
+Supported students in AI, machine learning, data science, Python programming, RAG systems, and LLM-based applications.
 
 ---
 
 ## Education
 
-🎓 **MS in Data Science** · Clarkson University, NY *(Aug 2024 – May 2026)*
-Machine Learning · Deep Learning · NLP · Distributed Systems · Cloud Computing · Computer Vision
+**Master of Science in Data Science**  
+Clarkson University · May 2026
 
-🎓 **B.Tech in Software Development** · Guru Nanak Dev University, India *(Aug 2020 – May 2023)*
+**Bachelor's in Software Development**  
+Guru Nanak Dev University
 
 ---
 
 <div align="center">
 
-**Open to full-time AI/ML Engineer, LLM Engineer, and Applied Scientist roles**
-STEM OPT authorized through 2028 · No sponsorship required · Open to relocation
+**Open to full-time AI/ML Engineer, Generative AI Engineer, Data Scientist, and Applied AI roles**
 
-[mahalmanpreet01@gmail.com](mailto:mahalmanpreet01@gmail.com) · [LinkedIn](https://linkedin.com/in/manpreetkaurmahal) · [HuggingFace](https://huggingface.co/Manpreet02)
+[Email](mailto:manpreetmahal.mk@gmail.com) · [LinkedIn](https://linkedin.com/in/manpreetkaurmahal) · [HuggingFace](https://huggingface.co/Manpreet02)
 
 </div>
